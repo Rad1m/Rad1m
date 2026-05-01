@@ -12,7 +12,7 @@ Engineer turned regulated-AI program leader. Building privacy-first AI in pharma
 
 Five years at Roche leading programs at the intersection of regulation, digital health, and AI:
 
-- **Agentic AI in regulated pharma** — building privacy-first RAG agents under a hard no-hallucination constraint. Every claim has to trace back to its source; if a fact can't be grounded in retrieved evidence, it gets discarded rather than paraphrased. That bar is high but it's the only way agentic systems are usable in pharma.
+- **Agentic AI in regulated pharma** — building privacy-first RAG agents under a hard no-hallucination constraint. Every claim has to trace back to its source; if a fact can't be grounded in retrieved evidence, it gets discarded rather than paraphrased. That bar is high but it's the only way agentic systems are usable in pharma. Backed by MIT Professional Education's *Applied Agentic AI for Organizational Transformation* (Feb 2026).
 - **Regulatory leadership** — IVDR adoption and MDR compliance across the diagnostics portfolio; remediation with BfArM and SwissMedic; rollout of a regulatory framework across 27 EU + 4 EFTA countries.
 - **Digital endpoints** — design and validation of novel clinical endpoints from wearable devices.
 - **Federated research in multiple sclerosis** — multi-center studies with universities and clinics, shaping both technical infrastructure and legal frameworks for secure data sharing.
@@ -25,11 +25,12 @@ Five years at Roche leading programs at the intersection of regulation, digital 
 
 ## Background
 
+- MIT Professional Education — Applied Agentic AI for Organizational Transformation (2026)
 - ETH Zürich — CAS Cyber Security (2019–2020)
 - Stanford — Energy Innovation and Emerging Technologies Certificate (2012–2013)
 - M.Sc. Applied Mechanics + B.Sc. Robotics — Technical University of Ostrava
 - 20 years across pharma, automotive, nuclear, and energy — Roche, Ansaldo Energia (gas turbines), Siemens Energy (nuclear steam turbines), Cummins, Honeywell, ŠKODA
-- Certifications: Applied Agentic AI for Organizational Transformation, Six Sigma Green Belt, PSM I, CSPO
+- Other certifications: Six Sigma Green Belt, PSM I, CSPO
 - Languages: Czech (native), English (fluent), German (working), Spanish (basic)
 - iOS / Swift / Rust / Python / on-device ML
 
