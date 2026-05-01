@@ -10,7 +10,9 @@ Building privacy-first iOS apps that run AI on-device. Based in Zurich.
 
 ## Day job
 
-**Agentic AI engineering at Roche.** Multi-agent systems and AI workflows inside a regulated pharma environment — where reliability, traceability, and governance are not optional. The hard problems on this side feed directly into how I think about building AI products on the indie side: caching for cost control, structured output for safety, evaluation harnesses you can actually iterate against.
+**Agentic AI engineering at Roche.** I build privacy-first RAG agents under a strict no-hallucination constraint: every claim has to trace back to its source, and if a fact can't be grounded in retrieved evidence, it gets discarded — not paraphrased, not softened. That bar is high, but it's the only way agentic systems are usable in regulated pharma.
+
+Before AI, I worked on medical devices and supported IVDR, EMA, and FDA submissions. The provenance, evaluation, and auditability discipline from that side carries directly over to how I build AI products on the indie side too.
 
 ## Writing
 
@@ -20,7 +22,9 @@ Building privacy-first iOS apps that run AI on-device. Based in Zurich.
 ## Background
 
 - ETH Zurich — Cyber/Computer Forensics and Counterterrorism (CAS, 2019–2020)
-- 20 years delivering complex programs across pharma, automotive, nuclear, and energy
+- Certificates from Stanford and MIT (see [LinkedIn](https://www.linkedin.com/in/radim-simanek/) for the full list)
+- 20 years delivering complex engineering programs across pharma, automotive, nuclear, and energy
+- Medical devices, IVDR, EMA / FDA submissions
 - iOS / Swift / Rust / Python / on-device ML
 
 ## Elsewhere
